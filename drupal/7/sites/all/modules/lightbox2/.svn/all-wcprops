@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2/LICENSE.txt
+END
+lightbox2.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2/lightbox2.admin.inc
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2/TODO.txt
+END
+lightbox2.module
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2/lightbox2.module
+END
+lightbox2.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2/lightbox2.views.inc
+END
+lightbox2.install
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2/lightbox2.install
+END
+lightbox2-insert-image.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2/lightbox2-insert-image.tpl.php
+END
+lightboxpach.patch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2/lightboxpach.patch
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2/README.txt
+END
+lightbox2.info
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2/lightbox2.info
+END
+lightbox2_handler_field_lightbox2.inc
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2/lightbox2_handler_field_lightbox2.inc
+END
+lightbox2.formatter.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2/lightbox2.formatter.inc
+END
+lightbox2.insert.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2/lightbox2.insert.inc
+END
+page--node--lightbox2.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/lightbox2/page--node--lightbox2.tpl.php
+END

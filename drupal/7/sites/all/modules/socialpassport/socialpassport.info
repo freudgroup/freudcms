@@ -1,0 +1,8 @@
+name = SocialPassport
+description = Social Passport Custom Functionality
+package = Social Passport
+core = 7.x
+
+dependencies[] = ctools
+dependencies[] = media_youtube
+

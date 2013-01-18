@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/libraries/fpdi
+END
+pdf_context.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/libraries/fpdi/pdf_context.php
+END
+fpdf_tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/libraries/fpdi/fpdf_tpl.php
+END
+changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/libraries/fpdi/changelog.txt
+END
+fpdi2tcpdf_bridge.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/libraries/fpdi/fpdi2tcpdf_bridge.php
+END
+fpdi.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/libraries/fpdi/fpdi.php
+END
+pdf_parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/libraries/fpdi/pdf_parser.php
+END
+fpdi_pdf_parser.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/libraries/fpdi/fpdi_pdf_parser.php
+END

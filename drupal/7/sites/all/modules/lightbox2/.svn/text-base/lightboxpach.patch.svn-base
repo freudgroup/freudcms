@@ -1,0 +1,40 @@
+diff --git a/lightbox2.info b/lightbox2.info
+index fca17937ca399da1871a26e565effe69683e8e22..7299424cb9cfbe347d410f15aa093030a5ba1319 100644
+--- a/lightbox2.info
++++ b/lightbox2.info
+@@ -8,6 +8,7 @@ files[] = lightbox2.install
+ files[] = lightbox2.module
+ files[] = lightbox2.formatter.inc
+ files[] = lightbox2.admin.inc
++files[] = lightbox2_handler_field_lightbox2.inc
+ 
+ configure = admin/config/user-interface/lightbox2
+ 
+diff --git a/lightbox2.views.inc b/lightbox2.views.inc
+index f784ad6cb4fc219a5d168b59de3531f5a72cd46a..12f9231007a1a81f77c847e3a4ae681cb244890e 100644
+--- a/lightbox2.views.inc
++++ b/lightbox2.views.inc
+@@ -27,21 +27,4 @@ function lightbox2_views_data() {
+   );
+ 
+   return $data;
+-}
+-
+-/**
+- * Implementation of hook_views_handlers() to register all of the basic handlers
+- * views uses.
+- */
+-function lightbox2_views_handlers() {
+-  return array(
+-    'info' => array(
+-      'path' => drupal_get_path('module', 'lightbox2'),
+-    ),
+-    'handlers' => array(
+-      'lightbox2_handler_field_lightbox2' => array(
+-        'parent' => 'views_handler_field',
+-      ),
+-    ),
+-  );
+-}
++}
+\ No newline at end of file

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/views_pdf
+END
+views_pdf.info
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/views_pdf/views_pdf.info
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/views_pdf/LICENSE.txt
+END
+views_pdf_plugin_display.inc
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/views_pdf/views_pdf_plugin_display.inc
+END
+views_pdf_plugin_style_table.inc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/views_pdf/views_pdf_plugin_style_table.inc
+END
+views_pdf_plugin_style_unformatted.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/views_pdf/views_pdf_plugin_style_unformatted.inc
+END
+views_pdf.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/views_pdf/views_pdf.admin.inc
+END
+views_pdf.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/views_pdf/views_pdf.rules.inc
+END
+views_pdf_template.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/views_pdf/views_pdf_template.php
+END
+views_pdf_plugin_row_fields.inc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/views_pdf/views_pdf_plugin_row_fields.inc
+END
+views_pdf.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/views_pdf/views_pdf.views.inc
+END
+views_pdf.module
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/views_pdf/views_pdf.module
+END
+views_pdf.install
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/views_pdf/views_pdf.install
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/possible/!svn/ver/91/php/projects/socialpassport/sites/all/modules/views_pdf/README.txt
+END
